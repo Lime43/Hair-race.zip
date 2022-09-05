@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 3cad02fc4c2167a4a8bcbec3d13f383e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Counter_fever_03
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 269
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Counter_fever_03
+      rect:
+        serializedVersion: 2
+        x: 14.07612
+        y: 54.07612
+        width: 126.8478
+        height: 172.8726
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.4652206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.49999, y: -77.51241}
+        - {x: -63.49999, y: -50.51241}
+        - {x: -63.49999, y: 8.487595}
+        - {x: -51.49999, y: 43.48759}
+        - {x: -11.49999, y: 86.48759}
+        - {x: 19.50001, y: 86.48759}
+        - {x: 47.50001, y: 61.48759}
+        - {x: 55.50001, y: 49.48759}
+        - {x: 63.50001, y: 7.487596}
+        - {x: 63.50001, y: -60.51241}
+        - {x: 28.50001, y: -86.51241}
+        - {x: -21.49999, y: -86.51241}
+      physicsShape:
+      - - {x: 62.50001, y: -34.51241}
+        - {x: 62.50001, y: -6.512405}
+        - {x: 53.5, y: 50.48759}
+        - {x: 46.50001, y: 56.48759}
+        - {x: 34.50001, y: 56.48759}
+        - {x: 26.50001, y: 53.48759}
+        - {x: 22.50001, y: 78.48759}
+        - {x: 17.50001, y: 85.48759}
+        - {x: 2.500007, y: 85.48759}
+        - {x: -7.499992, y: 82.48759}
+        - {x: -28.49999, y: 56.48759}
+        - {x: -36.49999, y: 37.48759}
+        - {x: -44.49999, y: 20.48759}
+        - {x: -62.49999, y: 14.48759}
+        - {x: -63.49999, y: -3.512406}
+        - {x: -63.49999, y: -30.5124}
+        - {x: -60.49999, y: -45.51241}
+        - {x: -42.49999, y: -71.51241}
+        - {x: -32.49999, y: -78.51241}
+        - {x: -14.49999, y: -85.5124}
+        - {x: 15.50001, y: -85.5124}
+        - {x: 37.50001, y: -77.51241}
+        - {x: 48.50001, y: -66.51241}
+        - {x: 58.5, y: -52.51241}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c35107d33344c67a96a1cbd85ca7ea1
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

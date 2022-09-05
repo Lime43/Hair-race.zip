@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 037b0b602240d2e4f913bdac69ca093e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: HotHair4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 240
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HotHair4
+      rect:
+        serializedVersion: 2
+        x: 46.02675
+        y: 25.02675
+        width: 148.8971
+        height: 189.9465
+      alignment: 9
+      pivot: {x: 0.4968078, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.47531, y: -68}
+        - {x: -74.47531, y: -59}
+        - {x: -74.47531, y: 19}
+        - {x: -47.47531, y: 93}
+        - {x: -43.47531, y: 95}
+        - {x: 29.52469, y: 95}
+        - {x: 46.52469, y: 92}
+        - {x: 64.52469, y: 56}
+        - {x: 74.52469, y: 33}
+        - {x: 74.52469, y: -59}
+        - {x: 54.52469, y: -95}
+        - {x: -0.4753113, y: -95}
+        - {x: -4.475311, y: -91}
+        - {x: -10.47531, y: -95}
+        - {x: -29.47531, y: -95}
+        - {x: -38.47531, y: -93}
+      physicsShape:
+      - - {x: -33.47531, y: -53}
+        - {x: -23.47531, y: -56}
+        - {x: -18.47531, y: -51}
+        - {x: -8.475311, y: -54}
+        - {x: -2.475311, y: -53}
+        - {x: 0.5246887, y: -50}
+        - {x: 0.5246887, y: -48}
+        - {x: 2.524689, y: -50}
+        - {x: 4.524688, y: -53}
+        - {x: 17.52469, y: -53}
+        - {x: 25.52469, y: -55}
+        - {x: 28.52469, y: -74}
+        - {x: 17.52469, y: -84}
+        - {x: 17.52469, y: -91}
+        - {x: 19.52469, y: -93}
+        - {x: 26.52469, y: -94}
+        - {x: 40.52469, y: -87}
+        - {x: 68.52469, y: -59}
+        - {x: 71.52469, y: -52}
+        - {x: 73.52469, y: -48}
+        - {x: 73.52469, y: -23}
+        - {x: 67.52469, y: -7}
+        - {x: 64.52469, y: 45}
+        - {x: 56.52469, y: 63}
+        - {x: 45.52468, y: 79.99999}
+        - {x: 21.52469, y: 95}
+        - {x: -11.47531, y: 95}
+        - {x: -20.47531, y: 93}
+        - {x: -34.47531, y: 85.99999}
+        - {x: -51.47531, y: 66.99999}
+        - {x: -57.47531, y: 54}
+        - {x: -61.47531, y: 34}
+        - {x: -61.47531, y: 5}
+        - {x: -72.47531, y: -24}
+        - {x: -73.4753, y: -34}
+        - {x: -73.4753, y: -49}
+        - {x: -69.47531, y: -56}
+        - {x: -47.47531, y: -78}
+        - {x: -36.47531, y: -91.99999}
+        - {x: -24.47531, y: -95}
+        - {x: -16.47531, y: -95}
+        - {x: -14.47531, y: -91.99999}
+        - {x: -12.47531, y: -85.99999}
+        - {x: -33.47531, y: -66.99999}
+      - - {x: -60.47531, y: -32}
+        - {x: -61.47531, y: -29}
+        - {x: -62.47531, y: -41}
+        - {x: -61.47531, y: -42}
+        - {x: -60.47531, y: -50}
+        - {x: -59.47531, y: -49}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bc0f9a212e4deab2f26ac728b706c0
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: d7418fab0cb789f4b828da0983cbf716
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: GameBar2_circleonly_0000_Circle_GIFT
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 278
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameBar2_circleonly_0000_Circle_GIFT
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.0761205
+        width: 197
+        height: 277.8726
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4999554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.5, y: -93.01241}
+        - {x: -98.5, y: -72.01241}
+        - {x: -98.5, y: 49.98759}
+        - {x: -81.5, y: 116.9876}
+        - {x: -69.5, y: 138.9876}
+        - {x: -66.5, y: 138.9876}
+        - {x: 18.5, y: 94.98759}
+        - {x: 30.5, y: 130.9876}
+        - {x: 46.5, y: 138.9876}
+        - {x: 68.5, y: 138.9876}
+        - {x: 89.5, y: 118.9876}
+        - {x: 98.5, y: 68.98759}
+        - {x: 98.5, y: -79.01241}
+        - {x: 97.5, y: -86.01241}
+        - {x: 64.5, y: -121.0124}
+        - {x: 34.5, y: -137.0124}
+        - {x: 21.5, y: -139.0124}
+        - {x: -24.5, y: -139.0124}
+        - {x: -60.5, y: -126.0124}
+      physicsShape:
+      - - {x: 93.5, y: -79.01241}
+        - {x: 98.49999, y: -62.01241}
+        - {x: 98.49999, y: -13.01241}
+        - {x: 94.5, y: 1.987595}
+        - {x: 77.5, y: 29.98759}
+        - {x: 87.5, y: 29.98759}
+        - {x: 91.5, y: 33.98759}
+        - {x: 91.5, y: 63.98759}
+        - {x: 87.5, y: 67.98759}
+        - {x: 75.5, y: 67.98759}
+        - {x: 86.5, y: 82.98759}
+        - {x: 89.5, y: 102.9876}
+        - {x: 79.49999, y: 121.9876}
+        - {x: 61.5, y: 137.9876}
+        - {x: 49.5, y: 137.9876}
+        - {x: 39.5, y: 129.9876}
+        - {x: 28.5, y: 108.9876}
+        - {x: 22.5, y: 87.98759}
+        - {x: 17.5, y: 91.98759}
+        - {x: -17.5, y: 92.98759}
+        - {x: -30.5, y: 109.9876}
+        - {x: -46.5, y: 127.9876}
+        - {x: -65.5, y: 130.9876}
+        - {x: -73.49999, y: 121.9876}
+        - {x: -83.5, y: 100.9876}
+        - {x: -84.5, y: 91.98759}
+        - {x: -84.5, y: 74.98759}
+        - {x: -95.5, y: 65.98759}
+        - {x: -93.5, y: 32.98759}
+        - {x: -83.5, y: 20.98759}
+        - {x: -94.5, y: 4.987594}
+        - {x: -98.49999, y: -7.012405}
+        - {x: -98.49999, y: -64.01241}
+        - {x: -96.5, y: -71.01241}
+        - {x: -88.5, y: -89.01241}
+        - {x: -83.5, y: -98.0124}
+        - {x: -62.5, y: -119.0124}
+        - {x: -52.5, y: -126.0124}
+        - {x: -25.5, y: -138.0124}
+        - {x: 18.5, y: -138.0124}
+        - {x: 39.5, y: -133.0124}
+        - {x: 58.5, y: -122.0124}
+        - {x: 83.5, y: -96.01241}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7564e14ed8184508a676d7fec9a82ce2
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
