@@ -8,17 +8,17 @@ public class ShopPU : MonoBehaviour
     [SerializeField] Button closeButton;
     [SerializeField] ShopPU popUpShop;
 
-    private static readonly string TIMEPLAY_15USD = "15usdtimeplay";
-    private static readonly string TIMEPLAY_25USD = "25usdtimeplay";
-    private static readonly string TIMEPLAY_35USD = "35usdtimeplay";
-    private static readonly string TIMEPLAY_45USD = "45usdtimeplay";
+    private static readonly string TIMEPLAY_15USD = "15usdgem";
+    private static readonly string TIMEPLAY_25USD = "25usdgem";
+    private static readonly string TIMEPLAY_35USD = "35usdgem";
+    private static readonly string TIMEPLAY_45USD = "45usdgem";
 
     private Dictionary<string, int> _DictionaryTime = new Dictionary<string, int>()
     {
-        {TIMEPLAY_15USD,18 },
-        {TIMEPLAY_25USD,30 },
-        {TIMEPLAY_35USD,35 },
-        {TIMEPLAY_45USD,54 },
+        {TIMEPLAY_15USD,60 },
+        {TIMEPLAY_25USD,300 },
+        {TIMEPLAY_35USD,720 },
+        {TIMEPLAY_45USD,1440 },
     };
 
 
